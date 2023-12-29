@@ -1,0 +1,49 @@
+.main-footer {
+  background-color: #6278f7;
+  position: relative;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100px;
+  background-image: url("C:/Users/orbit/Downloads/organo-app/public/imagens/fundo.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.main-footer ul {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+  margin: 0;
+  padding: 0;
+}
+
+.main-footer .left-group {
+  align-items: center;
+  margin: 40px;
+}
+
+.left-group li {
+  width: 3rem;
+}
+
+.left-group img {
+  width: 35px;
+}
+
+.center-group {
+  align-items: center;
+}
+
+.center-group img {
+  width: 150px;
+  height: 50px;
+}
+
+.right-group {
+  align-items: center;
+  margin: 40px;
+  font-size: 20px;
+  color: white;
+}
