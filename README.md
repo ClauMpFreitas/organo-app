@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# organo-app
+Aplicativo da Alura criado para o curso de React com JavaScript, onde temos a página Organo, uma página criada com o intuito de organizar os times de colaboradores da Alura
+>>>>>>> 8987b1f1ae35b6776beeb3cae0afbbb1be51b179
